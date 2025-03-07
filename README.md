@@ -8,5 +8,4 @@ I’m fascinated by the power of data science and how it can be leveraged to bet
 This portfolio showcases a collection of data analysis projects that I’ve completed both independently and as part of my coursework. I plan to continue adding new projects as I progress through my studies and data science journey.
 
 Below, you’ll find links to some of the projects I’ve completed:
-- [California Homekey Program Analysis](./California%20Homekey%20Program%20Analysis/)
 - [Interactive Shiny Apps](./Interactive%20Shiny%20Apps/)
